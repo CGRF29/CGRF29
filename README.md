@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Data Analytics, Machine Learning and Deep Learning
-- 🌱 I’m currently learning with help from Coursera 
+- 🌱 I’m currently learning with help from Coursera and Codecademy 
 - 👯 I’m looking to collaborate on health projects
 
 
